@@ -3,6 +3,14 @@
 ### X3D-Toggle v1.2.0 - README.md
 ### Copyright ©️ 2026 Pyrotiger - License: GPLv3
 
+> [!CAUTION]
+> **Security Notice — Linux Only (Beware of Fake Windows Releases):**
+> **X3D Toggle is strictly a Linux-only application.** There is **no** Windows version, and this project will never distribute Windows executables. AMD develops their own software, **AMD 3D V-Cache Performance Optimizer Driver**, for use on Windows platforms, but this is **NOT** the same program as X3D Toggle.
+>
+> Any Windows `.exe` or `.zip` files circulating online or hosted on cloned/unofficial repositories claiming to be X3D Toggle are **unofficial, potentially malicious, and must NOT be trusted or executed**.
+>
+> Only obtain X3D Toggle from this official repository, its official Linux releases (`.pkg.tar.zst` / source), or the official [AUR package](https://aur.archlinux.org/packages/x3d-toggle).
+
 ## AMD 3D V-Cache Performance Optimizer Toggle Control - Community Edition
 A portable, high-performance utility for managing CCD priority on the AMD Ryzen X3D CPUs utilizing the 3D V-Cache Performance Optimizer under Linux via manual control or automated daemon.
 
