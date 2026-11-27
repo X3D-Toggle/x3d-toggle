@@ -1,5 +1,6 @@
 # x3d-toggle (C Implementation)
-# Note: X3D Toggle v1.x is a lightweight CLI/Kdialog application while v2.x is fully decked out with a suite of GUI options via [X3D Toggle V2](https://github.com/pyrotiger/x3d-toggle-main)
+> [!NOTE]
+> **X3D Toggle v1.x** is a lightweight CLI/KDialog utility, while **v2.x** provides a full GTK4/libadwaita GUI and daemon suite (available in [X3D Toggle v2](https://github.com/pyrotiger/x3d-toggle-main)).
 ### X3D-Toggle v1.2.0 - README.md
 ### Copyright ©️ 2026 Pyrotiger - License: GPLv3
 
